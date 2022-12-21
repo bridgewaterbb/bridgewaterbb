@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1>Hi, I'm Brandon <br/><a href="https://www.linkedin.com/in/brandonbridgewater/">IT & Cybersecurity Professional</h1>
 
-<!--
-**bridgewaterbb/bridgewaterbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket Installation and Configuration](https://github.com/bridgewaterbb/osTicket-Install-and-Configuration)
+ 
+- <b>Microsoft Azure</b>
+  - [Setting Up Active Directory in Azure](https://github.com/bridgewaterbb/Azure-AD-Configuration)
+  - [Inspecting Network Protocols with Wireshark](https://github.com/bridgewaterbb/Azure-Networking)
+  
+<h2>Cybersecurity Projects:</h2> 
+ 
+ - <b>Vulnerability Management</b>
+   - [Vulnerability Management with Nessus](https://github.com/bridgewaterbb/Nessus-Vuln-Management)
+  
+ - <b>Microsoft Azure</b>
+   - [Logging and Mapping Brute Force RDP attempts with Azure Sentinel](https://github.com/bridgewaterbb/Azure-Sentinel-Threat-Mapping)
+  
+ - <b>Active Directory Home Lab</b>
+   - [Security Testing with AD Virtual Machines](https://github.com/bridgewaterbb/AD-Security-Lab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="Brandon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/brandonbridgewater
