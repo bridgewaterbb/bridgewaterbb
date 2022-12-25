@@ -1,5 +1,16 @@
 <h1>Hi, I'm Brandon <br/><a href="https://www.linkedin.com/in/brandonbridgewater/">IT & Cybersecurity Professional</h1>
 
+<h2>Cybersecurity Projects:</h2> 
+
+ - <b>Microsoft Azure</b>
+   - [Logging and Mapping Brute Force RDP attempts with Azure Sentinel](https://github.com/bridgewaterbb/Azure-Sentinel-Threat-Mapping)
+ 
+ - <b>Vulnerability Management</b>
+   - [Vulnerability Management with Nessus](https://github.com/bridgewaterbb/Nessus-Vuln-Management)
+  
+ - <b>Active Directory Home Lab</b>
+   - [Security Testing with AD Virtual Machines](https://github.com/bridgewaterbb/AD-Security-Lab)
+
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -8,17 +19,6 @@
 - <b>Microsoft Azure</b>
   - [Setting Up Active Directory in Azure](https://github.com/bridgewaterbb/Azure-AD-Configuration)
   - [Inspecting Network Protocols with Wireshark](https://github.com/bridgewaterbb/Azure-Networking)
-  
-<h2>Cybersecurity Projects:</h2> 
- 
- - <b>Vulnerability Management</b>
-   - [Vulnerability Management with Nessus](https://github.com/bridgewaterbb/Nessus-Vuln-Management)
-  
- - <b>Microsoft Azure</b>
-   - [Logging and Mapping Brute Force RDP attempts with Azure Sentinel](https://github.com/bridgewaterbb/Azure-Sentinel-Threat-Mapping)
-  
- - <b>Active Directory Home Lab</b>
-   - [Security Testing with AD Virtual Machines](https://github.com/bridgewaterbb/AD-Security-Lab)
 
 <h2>Connect with me:</h2>
 
