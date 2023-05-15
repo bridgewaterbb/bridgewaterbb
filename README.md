@@ -1,7 +1,10 @@
-<h1>Hi, I'm Brandon <br/><a href="https://www.linkedin.com/in/brandonbridgewater/">IT & Cybersecurity Professional</h1>
+<h1>Hi, I'm Brandon <br/><a href="https://www.linkedin.com/in/brandonbridgewater/">Cybersecurity Professional</a></h1>
 
 <h2>Cybersecurity Projects:</h2> 
-
+ 
+ - <b>Python</b>
+   - [Python Security Tools (Work in Progress)](https://github.com/bridgewaterbb/Sec-Python)
+ 
  - <b>Microsoft Azure</b>
    - [Logging and Mapping Brute Force RDP attempts with Azure Sentinel](https://github.com/bridgewaterbb/Azure-Sentinel-Threat-Mapping)
  
